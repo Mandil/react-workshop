@@ -96,6 +96,10 @@
   margin: 0 auto;
 }
 
+.home-description {
+  margin-top: 40px;
+}
+
 .content-container:after {
   clear: both;
 }
@@ -111,4 +115,8 @@
 
 .bold {
   font-weight: bold;
+}
+
+.tagline {
+  margin: 5px 0 50px;
 }
